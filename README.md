@@ -2,7 +2,7 @@
 
 <p>
 <strong><h2>Aurora</h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
+金融股大数据挖掘上课弄得hhh
 </p>
 
 ![Auroraの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
